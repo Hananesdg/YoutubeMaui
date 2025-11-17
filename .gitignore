@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# MAUI platform-specific output
+*/bin/
+*/obj/
+
+# WebView2 cache
+*.WebView2/
+**/EBWebView/
+
+# Packages
+packages/
+*.nupkg
+
+# OS files
+Thumbs.db
+.DS_Store
